@@ -1,11 +1,11 @@
 # HyFusion
 The official pytorch implementation of "HyFusion: Enhanced Cross-Scale Reception Field Transformer for Hyperspectral and Multispectral Image Fusion".
 
-[Chih-Chung Hsu](https://cchsu.info/), [Chia-Ming Lee](https://ming053l.github.io/), [Li-Wei Kang](https://scholar.google.com/citations?user=QwSzhgEAAAAJ&hl=zh-TW)
+[Chia-Ming Lee](https://ming053l.github.io/), [Yu-Fan Lin](https://vanlinlin.github.io/), Yu-Hao Ho, [Li-Wei Kang](https://scholar.google.com/citations?user=QwSzhgEAAAAJ&hl=zh-TW), [Chih-Chung Hsu](https://cchsu.info/)
 
-Advanced Computer Vision LAB, National Cheng Kung University
+Advanced Computer Vision LAB, National Cheng Kung and Yang Ming Chiao Tung University
 
-Department of Electrial Engineering, National Taiwan Normal University
+Department of Electrical Engineering, National Taiwan Normal University
 
 ## Overview
 
@@ -34,4 +34,4 @@ pip install -r requirements.txt
 
 
 ## Contact
-If you have any question, please email zuw408421476@gmail.com to discuss with the author.
+If you have any questions, please email aas12as12as12tw@gmail.com to discuss with the author.
