@@ -11,9 +11,6 @@ Department of Electrical Engineering, National Taiwan Normal University
 
 <img src=".\figures\hyfusion2.png" width="1000"/>
 
-coming soon...
-
-
 ## Environment
 
 - CUDA >= 11.2
